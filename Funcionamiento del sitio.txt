@@ -1,0 +1,3 @@
+El sitio muestra un registro/login, luego muestra una pagina principal o home que explica su proposito y funcionamiento esto nos lleva a la pagina donde realizamos nuestra intervención en la obra, la cual consiste en agregar texto e imagenes para crear una historia en estilo cadaver exquisito entre todos los usuarios, entonces luego de ingresar el texto e imagen te lleva a poder visualizar el resultado de la obra que se muestra en forma de tabla mostrando la imagen y el nombre del interventor, luego se puede volver atras tocando en los botones de perfil. 
+
+La pagina cuenta con funciones especiales si se registra desde el usuario "admin" como eliminar un usuario además se puede cambiar la password.
